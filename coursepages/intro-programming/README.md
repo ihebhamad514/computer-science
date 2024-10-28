@@ -58,7 +58,7 @@ This course has been created by Professor Charles Severance from the University 
 
 1. [Installing Python](https://www.py4e.com/lessons/install) ✅
 2. [Why Program?](https://www.py4e.com/lessons/intro) ✅
-3. [Variables, expressions and statements](https://www.py4e.com/lessons/memory)
+3. [Variables, expressions and statements](https://www.py4e.com/lessons/memory) ✅
 4. [Conditional Execution](https://www.py4e.com/lessons/logic)
 5. [Functions](https://www.py4e.com/lessons/functions)
 6. [Loops and Iterations](https://www.py4e.com/lessons/loops)
