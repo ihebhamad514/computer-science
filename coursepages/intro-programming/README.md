@@ -64,7 +64,7 @@ This course has been created by Professor Charles Severance from the University 
 6. [Loops and Iterations](https://www.py4e.com/lessons/loops) ✅
 7. [Strings](https://www.py4e.com/lessons/strings) ✅
 8. [Files](https://www.py4e.com/lessons/files) ✅
-9. [Lists](https://www.py4e.com/lessons/lists)
+9. [Lists](https://www.py4e.com/lessons/lists) ✅
 10. [Dictionaries](https://www.py4e.com/lessons/dictionary)
 11. [Tuples](https://www.py4e.com/lessons/tuples)
 12. [Regular Expressions](https://www.py4e.com/lessons/regex)
