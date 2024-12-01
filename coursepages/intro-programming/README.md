@@ -66,7 +66,7 @@ This course has been created by Professor Charles Severance from the University 
 8. [Files](https://www.py4e.com/lessons/files) ✅
 9. [Lists](https://www.py4e.com/lessons/lists) ✅
 10. [Dictionaries](https://www.py4e.com/lessons/dictionary) ✅
-11. [Tuples](https://www.py4e.com/lessons/tuples)
+11. [Tuples](https://www.py4e.com/lessons/tuples) ✅
 12. [Regular Expressions](https://www.py4e.com/lessons/regex)
 13. [Network Programming](https://www.py4e.com/lessons/network) (Optional)
 14. [Using Web Services](https://www.py4e.com/lessons/servces) (Optional)
